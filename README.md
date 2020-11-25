@@ -1,5 +1,7 @@
 # [WIP] Docker-Maintenance
 
+![Docker](docker-logo.png)
+
 ### Introduction 
 The purpose of the repository is to store best practices of Docker-Creating and Docker-Maintenance.
 The assumed language interface is **python**.
