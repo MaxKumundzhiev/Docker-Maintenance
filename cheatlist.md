@@ -27,4 +27,10 @@ Connect to the running Docker Container (either use Docker Dashboards OR check D
 $ docker exec -it <docker container ID> bash
 OR
 $ docker exec -it <docker container ID> /bin/sh
+
+To create/change a root password in a running container
+$ docker exec -itu root <container ID> passwd
+
 ```
+
+
