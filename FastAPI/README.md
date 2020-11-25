@@ -7,6 +7,9 @@
 Create and activate the dedicated virtual environment
 ```bash
 $ python3 -m venv venv  && . venv/bin/activate
+
+!!!Deactivate the dedicated virtual environment
+$ deactivate
 ``` 
 
 Install [FastAPI](https://fastapi.tiangolo.com/) dependencies
